@@ -1,7 +1,7 @@
 EC327 - Intro to Software Engineering 
 Programming Assignment 3 - HighCs
 This is a simple command line game made as a class project.
-It's not a very entertaining game, because it isn't complete, and PA4 is an extension of it that ends up being more compelling.
+It's not a very entertaining game, because it isn't complete, and PA4 was supposed to be an extension of it that ends up being more compelling.
 Either way, the sailors in the game can sail around and do various marine activities such as docking at ports and docks using the following commands:
 
 Sail: s <sailor ID> <x coordinate> <y coordinate>
